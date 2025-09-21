@@ -123,3 +123,113 @@ Round 1 - start_turn - azerty (CTRL=player)
 Round 1 - azerty -> inspect_wheel | azerty осмотрел колесо.
 Round 2 - start_turn - qwerty (CTRL=player)
 Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> go_path | qwerty пошёл по тропинке вправо.
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> inspect_wheel | azerty осмотрел колесо.
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> explore_ruins | qwerty сделал неизвестное действие (explore_ruins).
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> search_inside | azerty сделал неизвестное действие (search_inside).
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> explore_ruins | qwerty сделал неизвестное действие (explore_ruins).
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> search_inside | azerty сделал неизвестное действие (search_inside).
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 2 - qwerty -> explore_ruins | qwerty сделал неизвестное действие (explore_ruins).
+Round 2 - start_turn - azerty (CTRL=player)
+Round 2 - azerty -> search_inside | azerty сделал неизвестное действие (search_inside).
+Round 3 - start_turn - qwerty (CTRL=player)
+Round 3 - qwerty -> explore_ruins | qwerty сделал неизвестное действие (explore_ruins).
+Round 3 - start_turn - azerty (CTRL=player)
+Round 3 - azerty -> search_inside | azerty сделал неизвестное действие (search_inside).
+Round 4 - start_turn - qwerty (CTRL=player)
+Round 4 - qwerty -> explore_ruins | qwerty сделал неизвестное действие (explore_ruins).
+Round 4 - start_turn - azerty (CTRL=player)
+Round 4 - azerty -> search_inside | azerty сделал неизвестное действие (search_inside).
+Round 5 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> explore_ruins | qwerty сделал неизвестное действие (explore_ruins).
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> retreat | azerty сделал неизвестное действие (retreat).
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 2 - qwerty -> explore_ruins | qwerty сделал неизвестное действие (explore_ruins).
+Round 2 - start_turn - azerty (CTRL=player)
+Round 2 - azerty -> retreat | azerty сделал неизвестное действие (retreat).
+Round 3 - start_turn - qwerty (CTRL=player)
+Round 3 - qwerty -> explore_ruins | qwerty сделал неизвестное действие (explore_ruins).
+Round 3 - start_turn - azerty (CTRL=player)
+Round 3 - azerty -> search_inside | azerty сделал неизвестное действие (search_inside).
+Round 4 - start_turn - qwerty (CTRL=player)
+Round 4 - qwerty -> explore_ruins | qwerty сделал неизвестное действие (explore_ruins).
+Round 4 - start_turn - azerty (CTRL=player)
+Round 4 - azerty -> search_inside | azerty сделал неизвестное действие (search_inside).
+Round 5 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> explore_ruins | qwerty исследовал башню.
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> search_inside | azerty заглянул внутрь колеса.
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> go_path | qwerty сделал действие: go_path, переход в scene_2a.
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> inspect_wheel | azerty сделал действие: inspect_wheel, переход в scene_2c.
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 2 - qwerty -> explore_ruins | qwerty сделал действие: explore_ruins, переход в scene_3a.
+Round 2 - start_turn - azerty (CTRL=player)
+Round 2 - azerty -> search_inside | azerty сделал действие: search_inside, переход в scene_3c.
+Round 3 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> go_path | qwerty сделал действие: go_path, переход в scene_2a.
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> inspect_wheel | azerty сделал действие: inspect_wheel, переход в scene_2c.
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 2 - qwerty -> explore_ruins | qwerty сделал действие: explore_ruins, переход в scene_3a.
+Round 2 - start_turn - azerty (CTRL=player)
+Round 2 - azerty -> search_inside | azerty сделал действие: search_inside, переход в scene_3c.
+Round 3 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> go_path | qwerty сделал действие: go_path, переход в scene_2a.
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> inspect_wheel | azerty сделал действие: inspect_wheel, переход в scene_2c.
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> go_path | qwerty сделал действие: go_path, переход в scene_2a.
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> go_path | azerty сделал действие: go_path, переход в scene_2a.
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> go_path | qwerty сделал действие: go_path, переход в scene_2a.
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> inspect_wheel | azerty сделал действие: inspect_wheel, переход в scene_2c.
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 2 - qwerty -> explore_ruins | qwerty сделал действие: explore_ruins, переход в scene_3a.
+Round 2 - start_turn - azerty (CTRL=player)
+Round 2 - azerty -> search_inside | azerty сделал действие: search_inside, переход в scene_3c.
+Round 3 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> enter_tower | qwerty завершил путь действием: enter_tower.
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> take_crystal | azerty завершил путь действием: take_crystal.
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> enter_tower | qwerty завершил путь действием: enter_tower.
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> take_crystal | azerty завершил путь действием: take_crystal.
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 2 - qwerty -> enter_tower | qwerty завершил путь действием: enter_tower.
+Round 2 - start_turn - azerty (CTRL=player)
+Round 2 - azerty -> take_crystal | azerty завершил путь действием: take_crystal.
+Round 3 - start_turn - qwerty (CTRL=player)
+Round 3 - qwerty -> climb_wall | qwerty завершил путь действием: climb_wall.
+Round 3 - start_turn - azerty (CTRL=player)
+Round 3 - azerty -> leave_crystal | azerty завершил путь действием: leave_crystal.
+Round 4 - start_turn - qwerty (CTRL=player)
+Round 4 - qwerty -> climb_wall | qwerty завершил путь действием: climb_wall.
+Round 4 - start_turn - azerty (CTRL=player)
+Round 4 - azerty -> leave_crystal | azerty завершил путь действием: leave_crystal.
+Round 5 - start_turn - qwerty (CTRL=player)

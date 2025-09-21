@@ -8,7 +8,7 @@ from models.entities import Entity
 from models.entities import Entity, RACE_OPTIONS, CLASS_FEATURES
 from utils.dice_parser import roll_4d6_drop_lowest, roll_dice
 from storage.save_load import save_players, list_saves, load_players
-from models.scenes import scene_1, SCENE_ACTIONS_1
+from models.scenes import SCENES
 
 
 
@@ -102,10 +102,8 @@ def create_characters() -> List[Entity]:
             appearance=appearance,
             level=1,
             xp=0,
-            current_scene={"text": scene_1, "actions": SCENE_ACTIONS_1}  # передаём сцену
-
+            current_scene=SCENES["scene_1"]
         )
-
         # небольшая подсказка по фичам
         print("\nНачальные фичи и экипировка:")
         for f in ent.features[:6]:

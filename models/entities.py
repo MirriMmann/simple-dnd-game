@@ -1,6 +1,8 @@
+# models/entities.py
+
 import random
 from typing import Dict, List
-from models.scenes import scene_1, SCENE_ACTIONS_1  # Абсолютный импорт
+from models.scenes import SCENES
 
 # Хиты на 1 уровень — классическая DnD5e логика (max hit die на 1 уровне)
 CLASS_HIT_DIE = {
@@ -87,7 +89,9 @@ class Entity:
         self.appearance = appearance or {}
         self.features = features or []
         self.equipment = equipment or []
-        self.current_scene = current_scene or {"text": scene_1, "actions": SCENE_ACTIONS_1}
+        self.current_scene = current_scene or SCENES["scene_1"]
+
+
 
         self.hp_max = self._calculate_max_hp()
         self.hp_current = self.hp_max
