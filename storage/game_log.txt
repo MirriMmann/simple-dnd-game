@@ -1,0 +1,125 @@
+Round 1 - start_turn - Аркейн (CTRL=player)
+Round 1 - action_resolved - Аркейн -> go_path | result: Аркейн отправился по таёжной тропинке вправо. Тропа ведёт в более густую тьму; ничего особенного. | xp=0
+Round 2 - start_turn - Аркейн (CTRL=player)
+Round 2 - action_resolved - Аркейн -> go_leaves | result: Аркейн прошёл по светлячковой тропе — странное ощущение, но путь оказался безопасным. | xp=1
+Round 3 - start_turn - Аркейн (CTRL=player)
+Round 3 - action_resolved - Аркейн -> inspect_wheel | result: Аркейн осмотрел колесо и нашёл маленькую блестящую деталь — опыт +9. | xp=9
+Round 4 - start_turn - Аркейн (CTRL=player)
+Round 4 - action_resolved - Аркейн -> wait | result: Аркейн задержался, прислушался к лесу. | xp=0
+Round 5 - start_turn - Аркейн (CTRL=player)
+Round 1 - start_turn - Аркадий (CTRL=player)
+Round 1 - action_resolved - Аркадий -> go_path | result: Аркадий отправился по таёжной тропинке вправо. Тропа ведёт в более густую тьму; ничего особенного. | xp=0
+Round 1 - start_turn - Адилет (CTRL=player)
+Round 1 - action_resolved - Адилет -> go_leaves | result: Адилет прошёл по светлячковой тропе — странное ощущение, но путь оказался безопасным. | xp=1
+Round 1 - start_turn - Рания (CTRL=player)
+Round 1 - action_resolved - Рания -> inspect_wheel | result: Рания осмотрел колесо — только ржавчина и паутина. | xp=0
+Round 2 - start_turn - Аркадий (CTRL=player)
+Round 2 - action_resolved - Аркадий -> go_path | result: Аркадий отправился по таёжной тропинке вправо. Тропа ведёт в более густую тьму; ничего особенного. | xp=0
+Round 2 - start_turn - Адилет (CTRL=player)
+Round 2 - action_resolved - Адилет -> go_leaves | result: Адилет прошёл по светлячковой тропе — странное ощущение, но путь оказался безопасным. | xp=1
+Round 2 - start_turn - Рания (CTRL=player)
+Round 2 - action_resolved - Рания -> inspect_wheel | result: Рания осмотрел колесо — только ржавчина и паутина. | xp=0
+Round 3 - start_turn - Аркадий (CTRL=player)
+Round 3 - action_resolved - Аркадий -> go_path | result: Аркадий отправился по таёжной тропинке вправо. Тропа ведёт в более густую тьму; ничего особенного. | xp=0
+Round 3 - start_turn - Адилет (CTRL=player)
+Round 3 - action_resolved - Адилет -> go_leaves | result: Адилет прошёл по светлячковой тропе — странное ощущение, но путь оказался безопасным. | xp=2
+Round 3 - start_turn - Рания (CTRL=player)
+Round 3 - action_resolved - Рания -> inspect_wheel | result: Рания осмотрел колесо — только ржавчина и паутина. | xp=0
+Round 4 - start_turn - Аркадий (CTRL=player)
+Round 4 - action_resolved - Аркадий -> go_path | result: Аркадий отправился по таёжной тропинке вправо. Тропа ведёт в более густую тьму; ничего особенного. | xp=0
+Round 4 - start_turn - Адилет (CTRL=player)
+Round 4 - action_resolved - Адилет -> go_leaves | result: Адилет прошёл по светлячковой тропе — странное ощущение, но путь оказался безопасным. | xp=5
+Round 4 - start_turn - Рания (CTRL=player)
+Round 4 - action_resolved - Рания -> inspect_wheel | result: Рания осмотрел колесо и нашёл маленькую блестящую деталь — опыт +16. | xp=16
+Round 5 - start_turn - Аркадий (CTRL=player)
+Round 5 - action_resolved - Аркадий -> go_path | result: Аркадий отправился по таёжной тропинке вправо. Тропа ведёт в более густую тьму; ничего особенного. | xp=0
+Round 5 - start_turn - Адилет (CTRL=player)
+Round 5 - action_resolved - Адилет -> go_leaves | result: Адилет прошёл по светлячковой тропе — странное ощущение, но путь оказался безопасным. | xp=2
+Round 5 - start_turn - Рания (CTRL=player)
+Round 5 - action_resolved - Рания -> inspect_wheel | result: Рания осмотрел колесо и нашёл маленькую блестящую деталь — опыт +8. | xp=8
+Round 6 - start_turn - Аркадий (CTRL=player)
+Round 6 - action_resolved - Аркадий -> go_path | result: Аркадий отправился по таёжной тропинке вправо. Тропа ведёт в более густую тьму; ничего особенного. | xp=0
+Round 6 - start_turn - Адилет (CTRL=player)
+Round 6 - action_resolved - Адилет -> go_leaves | result: Адилет прошёл по светлячковой тропе — странное ощущение, но путь оказался безопасным. | xp=0
+Round 6 - start_turn - Рания (CTRL=player)
+Round 6 - action_resolved - Рания -> inspect_wheel | result: Рания осмотрел колесо — только ржавчина и паутина. | xp=0
+Round 7 - start_turn - Аркадий (CTRL=player)
+Round 7 - action_resolved - Аркадий -> go_leaves | result: Аркадий прошёл по светлячковой тропе — странное ощущение, но путь оказался безопасным. | xp=5
+Round 7 - start_turn - Адилет (CTRL=player)
+Round 7 - action_resolved - Адилет -> go_path | result: Адилет отправился по таёжной тропинке вправо. Тропа ведёт в более густую тьму; ничего особенного. | xp=0
+Round 7 - start_turn - Рания (CTRL=player)
+Round 7 - action_resolved - Рания -> go_path | result: Рания отправился по таёжной тропинке вправо. Тропа ведёт в более густую тьму; ничего особенного. | xp=0
+Round 8 - start_turn - Аркадий (CTRL=player)
+Round 1 - start_turn - Аркадий (CTRL=player)
+Round 1 - Аркадий -> go_path | Аркадий выбрал тропинку вправо. Новая сцена!
+Round 1 - start_turn - Адилет (CTRL=player)
+Round 1 - Адилет -> explore_ruins | Адилет сделал действие explore_ruins (эффект пока не прописан).
+Round 1 - start_turn - Рания (CTRL=player)
+Round 1 - start_turn - цукен (CTRL=player)
+Round 1 - цукен -> go_path | цукен пошёл по тропинке вправо.
+Round 1 - start_turn - werty (CTRL=player)
+Round 1 - werty -> inspect_wheel | werty осмотрел колесо.
+Round 2 - start_turn - цукен (CTRL=player)
+Round 2 - цукен -> explore_ruins | цукен сделал неизвестное действие (explore_ruins).
+Round 2 - start_turn - werty (CTRL=player)
+Round 1 - start_turn - цукен (CTRL=player)
+Round 1 - start_turn - цукен (CTRL=player)
+Round 1 - цукен -> go_path | цукен пошёл по тропинке вправо.
+Round 1 - start_turn - werty (CTRL=player)
+Round 1 - werty -> inspect_wheel | werty осмотрел колесо.
+Round 2 - start_turn - цукен (CTRL=player)
+Round 1 - start_turn - цукен (CTRL=player)
+Round 1 - start_turn - цукен (CTRL=player)
+Round 1 - цукен -> go_path | цукен пошёл по тропинке вправо.
+Round 1 - start_turn - werty (CTRL=player)
+Round 1 - werty -> inspect_wheel | werty осмотрел колесо.
+Round 2 - start_turn - цукен (CTRL=player)
+Round 1 - start_turn - цукен (CTRL=player)
+Round 1 - start_turn - цукен (CTRL=player)
+Round 1 - start_turn - цукен (CTRL=player)
+Round 1 - цукен -> go_path | цукен пошёл по тропинке вправо.
+Round 1 - start_turn - werty (CTRL=player)
+Round 1 - werty -> go_path | werty пошёл по тропинке вправо.
+Round 2 - start_turn - цукен (CTRL=player)
+Round 1 - start_turn - цукен (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> go_path | qwerty пошёл по тропинке вправо.
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> inspect_wheel | azerty осмотрел колесо.
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> go_path | qwerty пошёл по тропинке вправо.
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> inspect_wheel | azerty осмотрел колесо.
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> explore_ruins | qwerty сделал неизвестное действие (explore_ruins).
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> search_inside | azerty сделал неизвестное действие (search_inside).
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> explore_ruins | qwerty сделал неизвестное действие (explore_ruins).
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> search_inside | azerty сделал неизвестное действие (search_inside).
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> explore_ruins | qwerty сделал неизвестное действие (explore_ruins).
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> search_inside | azerty сделал неизвестное действие (search_inside).
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - привет (CTRL=ai)
+Round 1 - start_turn - пока (CTRL=player)
+Round 1 - start_turn - привет (CTRL=ai)
+Round 1 - start_turn - пока (CTRL=player)
+Round 1 - пока -> go_path | пока пошёл по тропинке вправо.
+Round 2 - start_turn - привет (CTRL=ai)
+Round 2 - start_turn - пока (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - qwerty -> go_path | qwerty пошёл по тропинке вправо.
+Round 1 - start_turn - azerty (CTRL=player)
+Round 1 - azerty -> inspect_wheel | azerty осмотрел колесо.
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
