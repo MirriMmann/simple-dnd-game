@@ -20,10 +20,10 @@ class TurnManager:
         """Запустить цикл ходов (блокирующий)."""
         self.running = True
         self.build_order()
-        print(f"\n[TurnManager] Запуск цикла. Игроков в очереди: {len(self.order)}")
+        print(f"\nГейм мастер: Запуск цикла. Игроков в очереди: {len(self.order)}")
         while self.running:
             if not self.order:
-                print("[TurnManager] Нет сущностей для ходов. Выход.")
+                print("Гейм мастер: Нет сущностей для ходов. Выход.")
                 break
 
             if self.index >= len(self.order):
@@ -53,7 +53,7 @@ class TurnManager:
                 # текущего больше нет — не сдвигаем, оставим на текущем индексе
                 # (index уже указывает на следующий)
                 self.index = min(self.index, len(self.order))
-        print("[TurnManager] Цикл остановлен.")
+        print("Гейм мастер: Цикл остановлен.")
 
     def stop(self):
         self.running = False

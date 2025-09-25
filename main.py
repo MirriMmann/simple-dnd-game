@@ -6,6 +6,7 @@ from core.turn_manager import TurnManager
 from storage.save_load import save_game
 from models.scenes import SCENES
 from utils.dice_parser import roll_check
+from core.actions import resolve_action
 
 LOG_PATH = os.path.join(os.path.dirname(__file__), "storage", "game_log.txt")
 os.makedirs(os.path.join(os.path.dirname(__file__), "storage"), exist_ok=True)
@@ -85,56 +86,6 @@ def do_hybrid_turn(entity):
             resolve_action(entity, action_key)
             return
         print("Неверный ввод.")
-
-
-def resolve_action(entity, action_key):
-    from utils.dice_parser import roll_check
-
-    for action in entity.current_scene["actions"]:
-        key = action[0]
-        label = action[1]
-        next_scene = action[2] if len(action) > 2 else None
-        extra = action[3] if len(action) > 3 else {}
-
-        if key == action_key:
-            # Проверка броска
-            if "check" in extra:
-                expr, _, dc = extra["check"].partition(" vs ")
-                expr = expr.strip()
-                dc = int(dc.strip())
-
-                try:
-                    success, total, rolls = roll_check(expr, dc, entity)
-                except Exception as e:
-                    print(f"⚠️ Ошибка проверки: {e}")
-                    return
-
-                if success:
-                    print(f"Проверка успешна! ({total} против {dc}, броски: {rolls})")
-                    if next_scene:
-                        entity.current_scene = SCENES[next_scene]
-                else:
-                    print(f"Провал проверки ({total} против {dc}, броски: {rolls})")
-                    fail_scene = extra.get("fail_scene")
-                    if fail_scene:
-                        entity.current_scene = SCENES[fail_scene]
-
-            else:
-                # обычное действие
-                if next_scene is None:
-                    res = f"{entity.name} завершил путь действием: {action_key}."
-                else:
-                    entity.current_scene = SCENES[next_scene]
-                    res = f"{entity.name} сделал действие: {action_key}, переход в {next_scene}."
-                print(res)
-
-            return
-
-    # если ничего не найдено
-    print(f"{entity.name} сделал неизвестное действие ({action_key}).")
-
-    # Если действие не найдено
-    print(f"{entity.name} сделал неизвестное действие ({action_key}).")
 
 
 if __name__ == "__main__":

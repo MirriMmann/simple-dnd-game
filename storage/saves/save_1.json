@@ -58,7 +58,7 @@
             "scene_after_wall",
             {
               "check": "1d20+Сила vs 15",
-              "fail_scene": "scene_2d"
+              "fail_scene": "scene_fail_climb"
             }
           ],
           [
