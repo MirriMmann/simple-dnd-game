@@ -263,3 +263,16 @@ def choose_appearance_for_race(race: str) -> Dict[str, str]:
                 break
             print("Неверный ввод.")
     return result
+
+def dice_roll_interactive(expr: str, modifier: int = 0, target: int = None):
+    total, rolls = roll_dice(expr)
+    total += modifier
+    print(f"Бросок {expr} (кости: {rolls}), модификатор {modifier:+}, итог = {total}")
+    if target is not None:
+        if total >= target:
+            print(f"✅ Успех (нужно {target}+)")
+            return True
+        else:
+            print(f"❌ Провал (нужно {target}+)")
+            return False
+    return total

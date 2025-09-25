@@ -5,7 +5,7 @@ from core.game_state import GameState
 from core.turn_manager import TurnManager
 from storage.save_load import save_game
 from models.scenes import SCENES
-
+from utils.dice_parser import roll_check
 
 LOG_PATH = os.path.join(os.path.dirname(__file__), "storage", "game_log.txt")
 os.makedirs(os.path.join(os.path.dirname(__file__), "storage"), exist_ok=True)
@@ -35,8 +35,10 @@ def do_player_turn(entity):
     print("\nСцена для", entity.name)
     print(entity.current_scene["text"])
     print("Доступные действия:")
-    for i, (_, label, _) in enumerate(entity.current_scene["actions"], 1):
+    for i, action in enumerate(entity.current_scene["actions"], 1):
+        label = action[1]
         print(f" {i}. {label}")
+
     print(" s. Сохраниться")
     print(" q. Выйти из игры")
 
@@ -52,7 +54,7 @@ def do_player_turn(entity):
             print("Игра сохранена.")
             continue
         if choice.isdigit() and 1 <= int(choice) <= len(entity.current_scene["actions"]):
-            action_key = entity.current_scene["actions"][int(choice)-1][0]
+            action_key = entity.current_scene["actions"][int(choice) - 1][0]
             resolve_action(entity, action_key)
             return
         print("Неверный ввод. Введите номер действия, 's' или 'q'.")
@@ -79,28 +81,60 @@ def do_hybrid_turn(entity):
             resolve_action(entity, action_key)
             return
         if ch.isdigit() and 1 <= int(ch) <= len(options):
-            action_key = options[int(ch)-1][0]
+            action_key = options[int(ch) - 1][0]
             resolve_action(entity, action_key)
             return
         print("Неверный ввод.")
 
 
 def resolve_action(entity, action_key):
-    # ищем действие в текущей сцене
-    for key, _, next_scene in entity.current_scene["actions"]:
+    from utils.dice_parser import roll_check
+
+    for action in entity.current_scene["actions"]:
+        key = action[0]
+        label = action[1]
+        next_scene = action[2] if len(action) > 2 else None
+        extra = action[3] if len(action) > 3 else {}
+
         if key == action_key:
-            if next_scene is None:
-                res = f"{entity.name} завершил путь действием: {action_key}."
+            # Проверка броска
+            if "check" in extra:
+                expr, _, dc = extra["check"].partition(" vs ")
+                expr = expr.strip()
+                dc = int(dc.strip())
+
+                try:
+                    success, total, rolls = roll_check(expr, dc, entity)
+                except Exception as e:
+                    print(f"⚠️ Ошибка проверки: {e}")
+                    return
+
+                if success:
+                    print(f"Проверка успешна! ({total} против {dc}, броски: {rolls})")
+                    if next_scene:
+                        entity.current_scene = SCENES[next_scene]
+                else:
+                    print(f"Провал проверки ({total} против {dc}, броски: {rolls})")
+                    fail_scene = extra.get("fail_scene")
+                    if fail_scene:
+                        entity.current_scene = SCENES[fail_scene]
+
             else:
-                entity.current_scene = SCENES[next_scene]
-                res = f"{entity.name} сделал действие: {action_key}, переход в {next_scene}."
-            print(res)
-            log_write(f"Round {gs.current_round} - {entity.name} -> {action_key} | {res}")
+                # обычное действие
+                if next_scene is None:
+                    res = f"{entity.name} завершил путь действием: {action_key}."
+                else:
+                    entity.current_scene = SCENES[next_scene]
+                    res = f"{entity.name} сделал действие: {action_key}, переход в {next_scene}."
+                print(res)
+
             return
 
-    res = f"{entity.name} сделал неизвестное действие ({action_key})."
-    print(res)
-    log_write(f"Round {gs.current_round} - {entity.name} -> {action_key} | {res}")
+    # если ничего не найдено
+    print(f"{entity.name} сделал неизвестное действие ({action_key}).")
+
+    # Если действие не найдено
+    print(f"{entity.name} сделал неизвестное действие ({action_key}).")
 
 
 if __name__ == "__main__":
