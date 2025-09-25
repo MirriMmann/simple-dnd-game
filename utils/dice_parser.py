@@ -16,9 +16,9 @@ def roll_dice(expr: str) -> Tuple[int, List[int]]:
     if not m:
         raise ValueError("Неправильный формат кубов, ожидается XdY(+Z)")
 
-    n = int(m.group(1))       # количество кубов
-    s = int(m.group(2))       # грани куба
-    tail = m.group(3)         # модификатор
+    n = int(m.group(1))
+    s = int(m.group(2))
+    tail = m.group(3)  
     modifier = 0
     if tail:
         modifier = int(tail.replace(" ", ""))
