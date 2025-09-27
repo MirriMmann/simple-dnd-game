@@ -163,20 +163,20 @@ class Entity:
 
     def _calculate_max_hp(self) -> int:
         hd = CLASS_HIT_DIE.get(self.char_class, 8)
-        con_mod = self.ability_modifier(self.stats.get("con", 10))
+        con_mod = self.ability_modifier(self.stats.get("Выносливость", 10))
         return max(1, hd + con_mod)
 
     def add_xp(self, amount: int):
         self.xp += amount
-        # простая система: 100 xp = уровень
+        # система 100 xp = уровень
         while self.xp >= 100 * self.level:
             self.level_up()
 
     def level_up(self):
         self.level += 1
-        # для простоты прибавляем половину куба (rounded up) + con_mod
+        # для простоты прибавляем половину куба 
         hd = CLASS_HIT_DIE.get(self.char_class, 8)
-        gained = (hd + 1) // 2 + self.ability_modifier(self.stats.get("con", 10))
+        gained = (hd + 1) // 2 + self.ability_modifier(self.stats.get("Выносливость", 10))
         gained = max(1, gained)
         self.hp_max += gained
         self.hp_current += gained

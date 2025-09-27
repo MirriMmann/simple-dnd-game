@@ -3,7 +3,6 @@ from core.checks import perform_check
 from core.damage_system import apply_damage
 from models.scenes import SCENES
 
-# 🎨 Цвета
 from colorama import Fore, Style, init
 init(autoreset=True)
 
