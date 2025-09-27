@@ -4,7 +4,6 @@ import random
 from typing import Dict, List
 from models.scenes import SCENES
 
-# Хиты на 1 уровень — классическая DnD5e логика (max hit die на 1 уровне)
 CLASS_HIT_DIE = {
     "Воин": 10,
     "Маг": 6,

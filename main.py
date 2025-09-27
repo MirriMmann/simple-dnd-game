@@ -103,11 +103,11 @@ def do_hybrid_turn(entity):
 if __name__ == "__main__":
     players = main_menu()
 
-    print(Fore.CYAN + "\n=== Текущие сцены игроков ===\n" + Style.RESET_ALL)
-    for p in players:
-        print(Fore.YELLOW + f"Сцена для {p.name}:" + Style.RESET_ALL)
-        print(Fore.WHITE + p.current_scene["text"] + Style.RESET_ALL)
-        print()
+    # print(Fore.CYAN + "\n=== Текущие сцены игроков ===\n" + Style.RESET_ALL)
+    # for p in players:
+    #     print(Fore.YELLOW + f"Сцена для {p.name}:" + Style.RESET_ALL)
+    #     print(Fore.WHITE + p.current_scene["text"] + Style.RESET_ALL)
+    #     print()
 
     gs = GameState()
     for p in players:

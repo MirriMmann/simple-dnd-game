@@ -40,9 +40,9 @@ def resolve_action(entity, action_key):
             # Если это просто переход без проверки
             else:
                 if next_scene:
-                    print(Fore.YELLOW + f"➡ {entity.name}"
-                          + Fore.WHITE + f" переходит в "
-                          + Fore.MAGENTA + f"{next_scene}.")
+                    # print(Fore.YELLOW + f"➡ {entity.name}"
+                    #       + Fore.WHITE + f" переходит в "
+                    #       + Fore.MAGENTA + f"{next_scene}.")
                     entity.current_scene = SCENES[next_scene]
                 else:
                     print(Fore.YELLOW + f"🏁 {entity.name}"
