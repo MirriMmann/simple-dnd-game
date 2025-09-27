@@ -1,1 +1,1807 @@
 Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwertyu (CTRL=ai)
+Round 2 - start_turn - qwertyu (CTRL=ai)
+Round 3 - start_turn - qwertyu (CTRL=ai)
+Round 4 - start_turn - qwertyu (CTRL=ai)
+Round 5 - start_turn - qwertyu (CTRL=ai)
+Round 6 - start_turn - qwertyu (CTRL=ai)
+Round 7 - start_turn - qwertyu (CTRL=ai)
+Round 8 - start_turn - qwertyu (CTRL=ai)
+Round 9 - start_turn - qwertyu (CTRL=ai)
+Round 10 - start_turn - qwertyu (CTRL=ai)
+Round 11 - start_turn - qwertyu (CTRL=ai)
+Round 12 - start_turn - qwertyu (CTRL=ai)
+Round 13 - start_turn - qwertyu (CTRL=ai)
+Round 14 - start_turn - qwertyu (CTRL=ai)
+Round 15 - start_turn - qwertyu (CTRL=ai)
+Round 16 - start_turn - qwertyu (CTRL=ai)
+Round 17 - start_turn - qwertyu (CTRL=ai)
+Round 18 - start_turn - qwertyu (CTRL=ai)
+Round 19 - start_turn - qwertyu (CTRL=ai)
+Round 20 - start_turn - qwertyu (CTRL=ai)
+Round 21 - start_turn - qwertyu (CTRL=ai)
+Round 22 - start_turn - qwertyu (CTRL=ai)
+Round 23 - start_turn - qwertyu (CTRL=ai)
+Round 24 - start_turn - qwertyu (CTRL=ai)
+Round 25 - start_turn - qwertyu (CTRL=ai)
+Round 26 - start_turn - qwertyu (CTRL=ai)
+Round 27 - start_turn - qwertyu (CTRL=ai)
+Round 28 - start_turn - qwertyu (CTRL=ai)
+Round 29 - start_turn - qwertyu (CTRL=ai)
+Round 30 - start_turn - qwertyu (CTRL=ai)
+Round 31 - start_turn - qwertyu (CTRL=ai)
+Round 32 - start_turn - qwertyu (CTRL=ai)
+Round 33 - start_turn - qwertyu (CTRL=ai)
+Round 34 - start_turn - qwertyu (CTRL=ai)
+Round 35 - start_turn - qwertyu (CTRL=ai)
+Round 36 - start_turn - qwertyu (CTRL=ai)
+Round 37 - start_turn - qwertyu (CTRL=ai)
+Round 38 - start_turn - qwertyu (CTRL=ai)
+Round 39 - start_turn - qwertyu (CTRL=ai)
+Round 40 - start_turn - qwertyu (CTRL=ai)
+Round 41 - start_turn - qwertyu (CTRL=ai)
+Round 42 - start_turn - qwertyu (CTRL=ai)
+Round 43 - start_turn - qwertyu (CTRL=ai)
+Round 44 - start_turn - qwertyu (CTRL=ai)
+Round 45 - start_turn - qwertyu (CTRL=ai)
+Round 46 - start_turn - qwertyu (CTRL=ai)
+Round 47 - start_turn - qwertyu (CTRL=ai)
+Round 48 - start_turn - qwertyu (CTRL=ai)
+Round 49 - start_turn - qwertyu (CTRL=ai)
+Round 50 - start_turn - qwertyu (CTRL=ai)
+Round 51 - start_turn - qwertyu (CTRL=ai)
+Round 52 - start_turn - qwertyu (CTRL=ai)
+Round 53 - start_turn - qwertyu (CTRL=ai)
+Round 54 - start_turn - qwertyu (CTRL=ai)
+Round 55 - start_turn - qwertyu (CTRL=ai)
+Round 56 - start_turn - qwertyu (CTRL=ai)
+Round 57 - start_turn - qwertyu (CTRL=ai)
+Round 58 - start_turn - qwertyu (CTRL=ai)
+Round 59 - start_turn - qwertyu (CTRL=ai)
+Round 60 - start_turn - qwertyu (CTRL=ai)
+Round 61 - start_turn - qwertyu (CTRL=ai)
+Round 62 - start_turn - qwertyu (CTRL=ai)
+Round 63 - start_turn - qwertyu (CTRL=ai)
+Round 64 - start_turn - qwertyu (CTRL=ai)
+Round 65 - start_turn - qwertyu (CTRL=ai)
+Round 66 - start_turn - qwertyu (CTRL=ai)
+Round 67 - start_turn - qwertyu (CTRL=ai)
+Round 68 - start_turn - qwertyu (CTRL=ai)
+Round 69 - start_turn - qwertyu (CTRL=ai)
+Round 70 - start_turn - qwertyu (CTRL=ai)
+Round 71 - start_turn - qwertyu (CTRL=ai)
+Round 72 - start_turn - qwertyu (CTRL=ai)
+Round 73 - start_turn - qwertyu (CTRL=ai)
+Round 74 - start_turn - qwertyu (CTRL=ai)
+Round 75 - start_turn - qwertyu (CTRL=ai)
+Round 76 - start_turn - qwertyu (CTRL=ai)
+Round 77 - start_turn - qwertyu (CTRL=ai)
+Round 78 - start_turn - qwertyu (CTRL=ai)
+Round 79 - start_turn - qwertyu (CTRL=ai)
+Round 80 - start_turn - qwertyu (CTRL=ai)
+Round 81 - start_turn - qwertyu (CTRL=ai)
+Round 82 - start_turn - qwertyu (CTRL=ai)
+Round 83 - start_turn - qwertyu (CTRL=ai)
+Round 84 - start_turn - qwertyu (CTRL=ai)
+Round 85 - start_turn - qwertyu (CTRL=ai)
+Round 86 - start_turn - qwertyu (CTRL=ai)
+Round 87 - start_turn - qwertyu (CTRL=ai)
+Round 88 - start_turn - qwertyu (CTRL=ai)
+Round 89 - start_turn - qwertyu (CTRL=ai)
+Round 90 - start_turn - qwertyu (CTRL=ai)
+Round 91 - start_turn - qwertyu (CTRL=ai)
+Round 92 - start_turn - qwertyu (CTRL=ai)
+Round 93 - start_turn - qwertyu (CTRL=ai)
+Round 94 - start_turn - qwertyu (CTRL=ai)
+Round 95 - start_turn - qwertyu (CTRL=ai)
+Round 96 - start_turn - qwertyu (CTRL=ai)
+Round 97 - start_turn - qwertyu (CTRL=ai)
+Round 98 - start_turn - qwertyu (CTRL=ai)
+Round 99 - start_turn - qwertyu (CTRL=ai)
+Round 100 - start_turn - qwertyu (CTRL=ai)
+Round 101 - start_turn - qwertyu (CTRL=ai)
+Round 102 - start_turn - qwertyu (CTRL=ai)
+Round 103 - start_turn - qwertyu (CTRL=ai)
+Round 104 - start_turn - qwertyu (CTRL=ai)
+Round 105 - start_turn - qwertyu (CTRL=ai)
+Round 106 - start_turn - qwertyu (CTRL=ai)
+Round 107 - start_turn - qwertyu (CTRL=ai)
+Round 108 - start_turn - qwertyu (CTRL=ai)
+Round 109 - start_turn - qwertyu (CTRL=ai)
+Round 110 - start_turn - qwertyu (CTRL=ai)
+Round 111 - start_turn - qwertyu (CTRL=ai)
+Round 112 - start_turn - qwertyu (CTRL=ai)
+Round 113 - start_turn - qwertyu (CTRL=ai)
+Round 114 - start_turn - qwertyu (CTRL=ai)
+Round 115 - start_turn - qwertyu (CTRL=ai)
+Round 116 - start_turn - qwertyu (CTRL=ai)
+Round 117 - start_turn - qwertyu (CTRL=ai)
+Round 118 - start_turn - qwertyu (CTRL=ai)
+Round 119 - start_turn - qwertyu (CTRL=ai)
+Round 120 - start_turn - qwertyu (CTRL=ai)
+Round 121 - start_turn - qwertyu (CTRL=ai)
+Round 122 - start_turn - qwertyu (CTRL=ai)
+Round 123 - start_turn - qwertyu (CTRL=ai)
+Round 124 - start_turn - qwertyu (CTRL=ai)
+Round 125 - start_turn - qwertyu (CTRL=ai)
+Round 126 - start_turn - qwertyu (CTRL=ai)
+Round 127 - start_turn - qwertyu (CTRL=ai)
+Round 128 - start_turn - qwertyu (CTRL=ai)
+Round 129 - start_turn - qwertyu (CTRL=ai)
+Round 130 - start_turn - qwertyu (CTRL=ai)
+Round 131 - start_turn - qwertyu (CTRL=ai)
+Round 132 - start_turn - qwertyu (CTRL=ai)
+Round 133 - start_turn - qwertyu (CTRL=ai)
+Round 134 - start_turn - qwertyu (CTRL=ai)
+Round 135 - start_turn - qwertyu (CTRL=ai)
+Round 136 - start_turn - qwertyu (CTRL=ai)
+Round 137 - start_turn - qwertyu (CTRL=ai)
+Round 138 - start_turn - qwertyu (CTRL=ai)
+Round 139 - start_turn - qwertyu (CTRL=ai)
+Round 140 - start_turn - qwertyu (CTRL=ai)
+Round 141 - start_turn - qwertyu (CTRL=ai)
+Round 142 - start_turn - qwertyu (CTRL=ai)
+Round 143 - start_turn - qwertyu (CTRL=ai)
+Round 144 - start_turn - qwertyu (CTRL=ai)
+Round 145 - start_turn - qwertyu (CTRL=ai)
+Round 146 - start_turn - qwertyu (CTRL=ai)
+Round 147 - start_turn - qwertyu (CTRL=ai)
+Round 148 - start_turn - qwertyu (CTRL=ai)
+Round 149 - start_turn - qwertyu (CTRL=ai)
+Round 150 - start_turn - qwertyu (CTRL=ai)
+Round 151 - start_turn - qwertyu (CTRL=ai)
+Round 152 - start_turn - qwertyu (CTRL=ai)
+Round 153 - start_turn - qwertyu (CTRL=ai)
+Round 154 - start_turn - qwertyu (CTRL=ai)
+Round 155 - start_turn - qwertyu (CTRL=ai)
+Round 156 - start_turn - qwertyu (CTRL=ai)
+Round 157 - start_turn - qwertyu (CTRL=ai)
+Round 158 - start_turn - qwertyu (CTRL=ai)
+Round 159 - start_turn - qwertyu (CTRL=ai)
+Round 160 - start_turn - qwertyu (CTRL=ai)
+Round 161 - start_turn - qwertyu (CTRL=ai)
+Round 162 - start_turn - qwertyu (CTRL=ai)
+Round 163 - start_turn - qwertyu (CTRL=ai)
+Round 164 - start_turn - qwertyu (CTRL=ai)
+Round 165 - start_turn - qwertyu (CTRL=ai)
+Round 166 - start_turn - qwertyu (CTRL=ai)
+Round 167 - start_turn - qwertyu (CTRL=ai)
+Round 168 - start_turn - qwertyu (CTRL=ai)
+Round 169 - start_turn - qwertyu (CTRL=ai)
+Round 170 - start_turn - qwertyu (CTRL=ai)
+Round 171 - start_turn - qwertyu (CTRL=ai)
+Round 172 - start_turn - qwertyu (CTRL=ai)
+Round 173 - start_turn - qwertyu (CTRL=ai)
+Round 174 - start_turn - qwertyu (CTRL=ai)
+Round 175 - start_turn - qwertyu (CTRL=ai)
+Round 176 - start_turn - qwertyu (CTRL=ai)
+Round 177 - start_turn - qwertyu (CTRL=ai)
+Round 178 - start_turn - qwertyu (CTRL=ai)
+Round 179 - start_turn - qwertyu (CTRL=ai)
+Round 180 - start_turn - qwertyu (CTRL=ai)
+Round 181 - start_turn - qwertyu (CTRL=ai)
+Round 182 - start_turn - qwertyu (CTRL=ai)
+Round 183 - start_turn - qwertyu (CTRL=ai)
+Round 184 - start_turn - qwertyu (CTRL=ai)
+Round 185 - start_turn - qwertyu (CTRL=ai)
+Round 186 - start_turn - qwertyu (CTRL=ai)
+Round 187 - start_turn - qwertyu (CTRL=ai)
+Round 188 - start_turn - qwertyu (CTRL=ai)
+Round 189 - start_turn - qwertyu (CTRL=ai)
+Round 190 - start_turn - qwertyu (CTRL=ai)
+Round 191 - start_turn - qwertyu (CTRL=ai)
+Round 192 - start_turn - qwertyu (CTRL=ai)
+Round 193 - start_turn - qwertyu (CTRL=ai)
+Round 194 - start_turn - qwertyu (CTRL=ai)
+Round 195 - start_turn - qwertyu (CTRL=ai)
+Round 196 - start_turn - qwertyu (CTRL=ai)
+Round 197 - start_turn - qwertyu (CTRL=ai)
+Round 198 - start_turn - qwertyu (CTRL=ai)
+Round 199 - start_turn - qwertyu (CTRL=ai)
+Round 200 - start_turn - qwertyu (CTRL=ai)
+Round 201 - start_turn - qwertyu (CTRL=ai)
+Round 202 - start_turn - qwertyu (CTRL=ai)
+Round 203 - start_turn - qwertyu (CTRL=ai)
+Round 204 - start_turn - qwertyu (CTRL=ai)
+Round 205 - start_turn - qwertyu (CTRL=ai)
+Round 206 - start_turn - qwertyu (CTRL=ai)
+Round 207 - start_turn - qwertyu (CTRL=ai)
+Round 208 - start_turn - qwertyu (CTRL=ai)
+Round 209 - start_turn - qwertyu (CTRL=ai)
+Round 210 - start_turn - qwertyu (CTRL=ai)
+Round 211 - start_turn - qwertyu (CTRL=ai)
+Round 212 - start_turn - qwertyu (CTRL=ai)
+Round 213 - start_turn - qwertyu (CTRL=ai)
+Round 214 - start_turn - qwertyu (CTRL=ai)
+Round 215 - start_turn - qwertyu (CTRL=ai)
+Round 216 - start_turn - qwertyu (CTRL=ai)
+Round 217 - start_turn - qwertyu (CTRL=ai)
+Round 218 - start_turn - qwertyu (CTRL=ai)
+Round 219 - start_turn - qwertyu (CTRL=ai)
+Round 220 - start_turn - qwertyu (CTRL=ai)
+Round 221 - start_turn - qwertyu (CTRL=ai)
+Round 222 - start_turn - qwertyu (CTRL=ai)
+Round 223 - start_turn - qwertyu (CTRL=ai)
+Round 224 - start_turn - qwertyu (CTRL=ai)
+Round 225 - start_turn - qwertyu (CTRL=ai)
+Round 226 - start_turn - qwertyu (CTRL=ai)
+Round 227 - start_turn - qwertyu (CTRL=ai)
+Round 228 - start_turn - qwertyu (CTRL=ai)
+Round 229 - start_turn - qwertyu (CTRL=ai)
+Round 230 - start_turn - qwertyu (CTRL=ai)
+Round 231 - start_turn - qwertyu (CTRL=ai)
+Round 232 - start_turn - qwertyu (CTRL=ai)
+Round 233 - start_turn - qwertyu (CTRL=ai)
+Round 234 - start_turn - qwertyu (CTRL=ai)
+Round 235 - start_turn - qwertyu (CTRL=ai)
+Round 236 - start_turn - qwertyu (CTRL=ai)
+Round 237 - start_turn - qwertyu (CTRL=ai)
+Round 238 - start_turn - qwertyu (CTRL=ai)
+Round 239 - start_turn - qwertyu (CTRL=ai)
+Round 240 - start_turn - qwertyu (CTRL=ai)
+Round 241 - start_turn - qwertyu (CTRL=ai)
+Round 242 - start_turn - qwertyu (CTRL=ai)
+Round 243 - start_turn - qwertyu (CTRL=ai)
+Round 244 - start_turn - qwertyu (CTRL=ai)
+Round 245 - start_turn - qwertyu (CTRL=ai)
+Round 246 - start_turn - qwertyu (CTRL=ai)
+Round 247 - start_turn - qwertyu (CTRL=ai)
+Round 248 - start_turn - qwertyu (CTRL=ai)
+Round 249 - start_turn - qwertyu (CTRL=ai)
+Round 250 - start_turn - qwertyu (CTRL=ai)
+Round 251 - start_turn - qwertyu (CTRL=ai)
+Round 252 - start_turn - qwertyu (CTRL=ai)
+Round 253 - start_turn - qwertyu (CTRL=ai)
+Round 254 - start_turn - qwertyu (CTRL=ai)
+Round 255 - start_turn - qwertyu (CTRL=ai)
+Round 256 - start_turn - qwertyu (CTRL=ai)
+Round 257 - start_turn - qwertyu (CTRL=ai)
+Round 258 - start_turn - qwertyu (CTRL=ai)
+Round 259 - start_turn - qwertyu (CTRL=ai)
+Round 260 - start_turn - qwertyu (CTRL=ai)
+Round 261 - start_turn - qwertyu (CTRL=ai)
+Round 262 - start_turn - qwertyu (CTRL=ai)
+Round 263 - start_turn - qwertyu (CTRL=ai)
+Round 264 - start_turn - qwertyu (CTRL=ai)
+Round 265 - start_turn - qwertyu (CTRL=ai)
+Round 266 - start_turn - qwertyu (CTRL=ai)
+Round 267 - start_turn - qwertyu (CTRL=ai)
+Round 268 - start_turn - qwertyu (CTRL=ai)
+Round 269 - start_turn - qwertyu (CTRL=ai)
+Round 270 - start_turn - qwertyu (CTRL=ai)
+Round 271 - start_turn - qwertyu (CTRL=ai)
+Round 272 - start_turn - qwertyu (CTRL=ai)
+Round 273 - start_turn - qwertyu (CTRL=ai)
+Round 274 - start_turn - qwertyu (CTRL=ai)
+Round 275 - start_turn - qwertyu (CTRL=ai)
+Round 276 - start_turn - qwertyu (CTRL=ai)
+Round 277 - start_turn - qwertyu (CTRL=ai)
+Round 278 - start_turn - qwertyu (CTRL=ai)
+Round 279 - start_turn - qwertyu (CTRL=ai)
+Round 280 - start_turn - qwertyu (CTRL=ai)
+Round 281 - start_turn - qwertyu (CTRL=ai)
+Round 282 - start_turn - qwertyu (CTRL=ai)
+Round 283 - start_turn - qwertyu (CTRL=ai)
+Round 284 - start_turn - qwertyu (CTRL=ai)
+Round 285 - start_turn - qwertyu (CTRL=ai)
+Round 286 - start_turn - qwertyu (CTRL=ai)
+Round 287 - start_turn - qwertyu (CTRL=ai)
+Round 288 - start_turn - qwertyu (CTRL=ai)
+Round 289 - start_turn - qwertyu (CTRL=ai)
+Round 290 - start_turn - qwertyu (CTRL=ai)
+Round 291 - start_turn - qwertyu (CTRL=ai)
+Round 292 - start_turn - qwertyu (CTRL=ai)
+Round 293 - start_turn - qwertyu (CTRL=ai)
+Round 294 - start_turn - qwertyu (CTRL=ai)
+Round 295 - start_turn - qwertyu (CTRL=ai)
+Round 296 - start_turn - qwertyu (CTRL=ai)
+Round 297 - start_turn - qwertyu (CTRL=ai)
+Round 298 - start_turn - qwertyu (CTRL=ai)
+Round 299 - start_turn - qwertyu (CTRL=ai)
+Round 300 - start_turn - qwertyu (CTRL=ai)
+Round 301 - start_turn - qwertyu (CTRL=ai)
+Round 302 - start_turn - qwertyu (CTRL=ai)
+Round 303 - start_turn - qwertyu (CTRL=ai)
+Round 304 - start_turn - qwertyu (CTRL=ai)
+Round 305 - start_turn - qwertyu (CTRL=ai)
+Round 306 - start_turn - qwertyu (CTRL=ai)
+Round 307 - start_turn - qwertyu (CTRL=ai)
+Round 308 - start_turn - qwertyu (CTRL=ai)
+Round 309 - start_turn - qwertyu (CTRL=ai)
+Round 310 - start_turn - qwertyu (CTRL=ai)
+Round 311 - start_turn - qwertyu (CTRL=ai)
+Round 312 - start_turn - qwertyu (CTRL=ai)
+Round 313 - start_turn - qwertyu (CTRL=ai)
+Round 314 - start_turn - qwertyu (CTRL=ai)
+Round 315 - start_turn - qwertyu (CTRL=ai)
+Round 316 - start_turn - qwertyu (CTRL=ai)
+Round 317 - start_turn - qwertyu (CTRL=ai)
+Round 318 - start_turn - qwertyu (CTRL=ai)
+Round 319 - start_turn - qwertyu (CTRL=ai)
+Round 320 - start_turn - qwertyu (CTRL=ai)
+Round 321 - start_turn - qwertyu (CTRL=ai)
+Round 322 - start_turn - qwertyu (CTRL=ai)
+Round 323 - start_turn - qwertyu (CTRL=ai)
+Round 324 - start_turn - qwertyu (CTRL=ai)
+Round 325 - start_turn - qwertyu (CTRL=ai)
+Round 326 - start_turn - qwertyu (CTRL=ai)
+Round 327 - start_turn - qwertyu (CTRL=ai)
+Round 328 - start_turn - qwertyu (CTRL=ai)
+Round 329 - start_turn - qwertyu (CTRL=ai)
+Round 330 - start_turn - qwertyu (CTRL=ai)
+Round 331 - start_turn - qwertyu (CTRL=ai)
+Round 332 - start_turn - qwertyu (CTRL=ai)
+Round 333 - start_turn - qwertyu (CTRL=ai)
+Round 334 - start_turn - qwertyu (CTRL=ai)
+Round 335 - start_turn - qwertyu (CTRL=ai)
+Round 336 - start_turn - qwertyu (CTRL=ai)
+Round 337 - start_turn - qwertyu (CTRL=ai)
+Round 338 - start_turn - qwertyu (CTRL=ai)
+Round 339 - start_turn - qwertyu (CTRL=ai)
+Round 340 - start_turn - qwertyu (CTRL=ai)
+Round 341 - start_turn - qwertyu (CTRL=ai)
+Round 342 - start_turn - qwertyu (CTRL=ai)
+Round 343 - start_turn - qwertyu (CTRL=ai)
+Round 344 - start_turn - qwertyu (CTRL=ai)
+Round 345 - start_turn - qwertyu (CTRL=ai)
+Round 346 - start_turn - qwertyu (CTRL=ai)
+Round 347 - start_turn - qwertyu (CTRL=ai)
+Round 348 - start_turn - qwertyu (CTRL=ai)
+Round 349 - start_turn - qwertyu (CTRL=ai)
+Round 350 - start_turn - qwertyu (CTRL=ai)
+Round 351 - start_turn - qwertyu (CTRL=ai)
+Round 352 - start_turn - qwertyu (CTRL=ai)
+Round 353 - start_turn - qwertyu (CTRL=ai)
+Round 354 - start_turn - qwertyu (CTRL=ai)
+Round 355 - start_turn - qwertyu (CTRL=ai)
+Round 356 - start_turn - qwertyu (CTRL=ai)
+Round 357 - start_turn - qwertyu (CTRL=ai)
+Round 358 - start_turn - qwertyu (CTRL=ai)
+Round 359 - start_turn - qwertyu (CTRL=ai)
+Round 360 - start_turn - qwertyu (CTRL=ai)
+Round 361 - start_turn - qwertyu (CTRL=ai)
+Round 362 - start_turn - qwertyu (CTRL=ai)
+Round 363 - start_turn - qwertyu (CTRL=ai)
+Round 364 - start_turn - qwertyu (CTRL=ai)
+Round 365 - start_turn - qwertyu (CTRL=ai)
+Round 366 - start_turn - qwertyu (CTRL=ai)
+Round 367 - start_turn - qwertyu (CTRL=ai)
+Round 368 - start_turn - qwertyu (CTRL=ai)
+Round 369 - start_turn - qwertyu (CTRL=ai)
+Round 370 - start_turn - qwertyu (CTRL=ai)
+Round 371 - start_turn - qwertyu (CTRL=ai)
+Round 372 - start_turn - qwertyu (CTRL=ai)
+Round 373 - start_turn - qwertyu (CTRL=ai)
+Round 374 - start_turn - qwertyu (CTRL=ai)
+Round 375 - start_turn - qwertyu (CTRL=ai)
+Round 376 - start_turn - qwertyu (CTRL=ai)
+Round 377 - start_turn - qwertyu (CTRL=ai)
+Round 378 - start_turn - qwertyu (CTRL=ai)
+Round 379 - start_turn - qwertyu (CTRL=ai)
+Round 380 - start_turn - qwertyu (CTRL=ai)
+Round 381 - start_turn - qwertyu (CTRL=ai)
+Round 382 - start_turn - qwertyu (CTRL=ai)
+Round 383 - start_turn - qwertyu (CTRL=ai)
+Round 384 - start_turn - qwertyu (CTRL=ai)
+Round 385 - start_turn - qwertyu (CTRL=ai)
+Round 386 - start_turn - qwertyu (CTRL=ai)
+Round 387 - start_turn - qwertyu (CTRL=ai)
+Round 388 - start_turn - qwertyu (CTRL=ai)
+Round 389 - start_turn - qwertyu (CTRL=ai)
+Round 390 - start_turn - qwertyu (CTRL=ai)
+Round 391 - start_turn - qwertyu (CTRL=ai)
+Round 392 - start_turn - qwertyu (CTRL=ai)
+Round 393 - start_turn - qwertyu (CTRL=ai)
+Round 394 - start_turn - qwertyu (CTRL=ai)
+Round 395 - start_turn - qwertyu (CTRL=ai)
+Round 396 - start_turn - qwertyu (CTRL=ai)
+Round 397 - start_turn - qwertyu (CTRL=ai)
+Round 398 - start_turn - qwertyu (CTRL=ai)
+Round 399 - start_turn - qwertyu (CTRL=ai)
+Round 400 - start_turn - qwertyu (CTRL=ai)
+Round 401 - start_turn - qwertyu (CTRL=ai)
+Round 402 - start_turn - qwertyu (CTRL=ai)
+Round 403 - start_turn - qwertyu (CTRL=ai)
+Round 404 - start_turn - qwertyu (CTRL=ai)
+Round 405 - start_turn - qwertyu (CTRL=ai)
+Round 406 - start_turn - qwertyu (CTRL=ai)
+Round 407 - start_turn - qwertyu (CTRL=ai)
+Round 408 - start_turn - qwertyu (CTRL=ai)
+Round 409 - start_turn - qwertyu (CTRL=ai)
+Round 410 - start_turn - qwertyu (CTRL=ai)
+Round 411 - start_turn - qwertyu (CTRL=ai)
+Round 412 - start_turn - qwertyu (CTRL=ai)
+Round 413 - start_turn - qwertyu (CTRL=ai)
+Round 414 - start_turn - qwertyu (CTRL=ai)
+Round 415 - start_turn - qwertyu (CTRL=ai)
+Round 416 - start_turn - qwertyu (CTRL=ai)
+Round 417 - start_turn - qwertyu (CTRL=ai)
+Round 418 - start_turn - qwertyu (CTRL=ai)
+Round 419 - start_turn - qwertyu (CTRL=ai)
+Round 420 - start_turn - qwertyu (CTRL=ai)
+Round 421 - start_turn - qwertyu (CTRL=ai)
+Round 422 - start_turn - qwertyu (CTRL=ai)
+Round 423 - start_turn - qwertyu (CTRL=ai)
+Round 424 - start_turn - qwertyu (CTRL=ai)
+Round 425 - start_turn - qwertyu (CTRL=ai)
+Round 426 - start_turn - qwertyu (CTRL=ai)
+Round 427 - start_turn - qwertyu (CTRL=ai)
+Round 428 - start_turn - qwertyu (CTRL=ai)
+Round 429 - start_turn - qwertyu (CTRL=ai)
+Round 430 - start_turn - qwertyu (CTRL=ai)
+Round 431 - start_turn - qwertyu (CTRL=ai)
+Round 432 - start_turn - qwertyu (CTRL=ai)
+Round 433 - start_turn - qwertyu (CTRL=ai)
+Round 434 - start_turn - qwertyu (CTRL=ai)
+Round 435 - start_turn - qwertyu (CTRL=ai)
+Round 436 - start_turn - qwertyu (CTRL=ai)
+Round 437 - start_turn - qwertyu (CTRL=ai)
+Round 438 - start_turn - qwertyu (CTRL=ai)
+Round 439 - start_turn - qwertyu (CTRL=ai)
+Round 440 - start_turn - qwertyu (CTRL=ai)
+Round 441 - start_turn - qwertyu (CTRL=ai)
+Round 442 - start_turn - qwertyu (CTRL=ai)
+Round 443 - start_turn - qwertyu (CTRL=ai)
+Round 444 - start_turn - qwertyu (CTRL=ai)
+Round 445 - start_turn - qwertyu (CTRL=ai)
+Round 446 - start_turn - qwertyu (CTRL=ai)
+Round 447 - start_turn - qwertyu (CTRL=ai)
+Round 448 - start_turn - qwertyu (CTRL=ai)
+Round 449 - start_turn - qwertyu (CTRL=ai)
+Round 450 - start_turn - qwertyu (CTRL=ai)
+Round 451 - start_turn - qwertyu (CTRL=ai)
+Round 452 - start_turn - qwertyu (CTRL=ai)
+Round 453 - start_turn - qwertyu (CTRL=ai)
+Round 454 - start_turn - qwertyu (CTRL=ai)
+Round 455 - start_turn - qwertyu (CTRL=ai)
+Round 456 - start_turn - qwertyu (CTRL=ai)
+Round 457 - start_turn - qwertyu (CTRL=ai)
+Round 458 - start_turn - qwertyu (CTRL=ai)
+Round 459 - start_turn - qwertyu (CTRL=ai)
+Round 460 - start_turn - qwertyu (CTRL=ai)
+Round 461 - start_turn - qwertyu (CTRL=ai)
+Round 462 - start_turn - qwertyu (CTRL=ai)
+Round 463 - start_turn - qwertyu (CTRL=ai)
+Round 464 - start_turn - qwertyu (CTRL=ai)
+Round 465 - start_turn - qwertyu (CTRL=ai)
+Round 466 - start_turn - qwertyu (CTRL=ai)
+Round 467 - start_turn - qwertyu (CTRL=ai)
+Round 468 - start_turn - qwertyu (CTRL=ai)
+Round 469 - start_turn - qwertyu (CTRL=ai)
+Round 470 - start_turn - qwertyu (CTRL=ai)
+Round 471 - start_turn - qwertyu (CTRL=ai)
+Round 472 - start_turn - qwertyu (CTRL=ai)
+Round 473 - start_turn - qwertyu (CTRL=ai)
+Round 474 - start_turn - qwertyu (CTRL=ai)
+Round 475 - start_turn - qwertyu (CTRL=ai)
+Round 476 - start_turn - qwertyu (CTRL=ai)
+Round 477 - start_turn - qwertyu (CTRL=ai)
+Round 478 - start_turn - qwertyu (CTRL=ai)
+Round 479 - start_turn - qwertyu (CTRL=ai)
+Round 480 - start_turn - qwertyu (CTRL=ai)
+Round 481 - start_turn - qwertyu (CTRL=ai)
+Round 482 - start_turn - qwertyu (CTRL=ai)
+Round 483 - start_turn - qwertyu (CTRL=ai)
+Round 484 - start_turn - qwertyu (CTRL=ai)
+Round 485 - start_turn - qwertyu (CTRL=ai)
+Round 486 - start_turn - qwertyu (CTRL=ai)
+Round 487 - start_turn - qwertyu (CTRL=ai)
+Round 488 - start_turn - qwertyu (CTRL=ai)
+Round 489 - start_turn - qwertyu (CTRL=ai)
+Round 490 - start_turn - qwertyu (CTRL=ai)
+Round 491 - start_turn - qwertyu (CTRL=ai)
+Round 492 - start_turn - qwertyu (CTRL=ai)
+Round 493 - start_turn - qwertyu (CTRL=ai)
+Round 494 - start_turn - qwertyu (CTRL=ai)
+Round 495 - start_turn - qwertyu (CTRL=ai)
+Round 496 - start_turn - qwertyu (CTRL=ai)
+Round 497 - start_turn - qwertyu (CTRL=ai)
+Round 498 - start_turn - qwertyu (CTRL=ai)
+Round 499 - start_turn - qwertyu (CTRL=ai)
+Round 500 - start_turn - qwertyu (CTRL=ai)
+Round 501 - start_turn - qwertyu (CTRL=ai)
+Round 502 - start_turn - qwertyu (CTRL=ai)
+Round 503 - start_turn - qwertyu (CTRL=ai)
+Round 504 - start_turn - qwertyu (CTRL=ai)
+Round 505 - start_turn - qwertyu (CTRL=ai)
+Round 506 - start_turn - qwertyu (CTRL=ai)
+Round 507 - start_turn - qwertyu (CTRL=ai)
+Round 508 - start_turn - qwertyu (CTRL=ai)
+Round 509 - start_turn - qwertyu (CTRL=ai)
+Round 510 - start_turn - qwertyu (CTRL=ai)
+Round 511 - start_turn - qwertyu (CTRL=ai)
+Round 512 - start_turn - qwertyu (CTRL=ai)
+Round 513 - start_turn - qwertyu (CTRL=ai)
+Round 514 - start_turn - qwertyu (CTRL=ai)
+Round 515 - start_turn - qwertyu (CTRL=ai)
+Round 516 - start_turn - qwertyu (CTRL=ai)
+Round 517 - start_turn - qwertyu (CTRL=ai)
+Round 518 - start_turn - qwertyu (CTRL=ai)
+Round 519 - start_turn - qwertyu (CTRL=ai)
+Round 520 - start_turn - qwertyu (CTRL=ai)
+Round 521 - start_turn - qwertyu (CTRL=ai)
+Round 522 - start_turn - qwertyu (CTRL=ai)
+Round 523 - start_turn - qwertyu (CTRL=ai)
+Round 524 - start_turn - qwertyu (CTRL=ai)
+Round 525 - start_turn - qwertyu (CTRL=ai)
+Round 526 - start_turn - qwertyu (CTRL=ai)
+Round 527 - start_turn - qwertyu (CTRL=ai)
+Round 528 - start_turn - qwertyu (CTRL=ai)
+Round 529 - start_turn - qwertyu (CTRL=ai)
+Round 530 - start_turn - qwertyu (CTRL=ai)
+Round 531 - start_turn - qwertyu (CTRL=ai)
+Round 532 - start_turn - qwertyu (CTRL=ai)
+Round 533 - start_turn - qwertyu (CTRL=ai)
+Round 534 - start_turn - qwertyu (CTRL=ai)
+Round 535 - start_turn - qwertyu (CTRL=ai)
+Round 536 - start_turn - qwertyu (CTRL=ai)
+Round 537 - start_turn - qwertyu (CTRL=ai)
+Round 538 - start_turn - qwertyu (CTRL=ai)
+Round 539 - start_turn - qwertyu (CTRL=ai)
+Round 540 - start_turn - qwertyu (CTRL=ai)
+Round 541 - start_turn - qwertyu (CTRL=ai)
+Round 542 - start_turn - qwertyu (CTRL=ai)
+Round 543 - start_turn - qwertyu (CTRL=ai)
+Round 544 - start_turn - qwertyu (CTRL=ai)
+Round 545 - start_turn - qwertyu (CTRL=ai)
+Round 546 - start_turn - qwertyu (CTRL=ai)
+Round 547 - start_turn - qwertyu (CTRL=ai)
+Round 548 - start_turn - qwertyu (CTRL=ai)
+Round 549 - start_turn - qwertyu (CTRL=ai)
+Round 550 - start_turn - qwertyu (CTRL=ai)
+Round 551 - start_turn - qwertyu (CTRL=ai)
+Round 552 - start_turn - qwertyu (CTRL=ai)
+Round 553 - start_turn - qwertyu (CTRL=ai)
+Round 554 - start_turn - qwertyu (CTRL=ai)
+Round 555 - start_turn - qwertyu (CTRL=ai)
+Round 556 - start_turn - qwertyu (CTRL=ai)
+Round 557 - start_turn - qwertyu (CTRL=ai)
+Round 558 - start_turn - qwertyu (CTRL=ai)
+Round 559 - start_turn - qwertyu (CTRL=ai)
+Round 560 - start_turn - qwertyu (CTRL=ai)
+Round 561 - start_turn - qwertyu (CTRL=ai)
+Round 562 - start_turn - qwertyu (CTRL=ai)
+Round 563 - start_turn - qwertyu (CTRL=ai)
+Round 564 - start_turn - qwertyu (CTRL=ai)
+Round 565 - start_turn - qwertyu (CTRL=ai)
+Round 566 - start_turn - qwertyu (CTRL=ai)
+Round 567 - start_turn - qwertyu (CTRL=ai)
+Round 568 - start_turn - qwertyu (CTRL=ai)
+Round 569 - start_turn - qwertyu (CTRL=ai)
+Round 570 - start_turn - qwertyu (CTRL=ai)
+Round 571 - start_turn - qwertyu (CTRL=ai)
+Round 572 - start_turn - qwertyu (CTRL=ai)
+Round 573 - start_turn - qwertyu (CTRL=ai)
+Round 574 - start_turn - qwertyu (CTRL=ai)
+Round 575 - start_turn - qwertyu (CTRL=ai)
+Round 576 - start_turn - qwertyu (CTRL=ai)
+Round 577 - start_turn - qwertyu (CTRL=ai)
+Round 578 - start_turn - qwertyu (CTRL=ai)
+Round 579 - start_turn - qwertyu (CTRL=ai)
+Round 580 - start_turn - qwertyu (CTRL=ai)
+Round 581 - start_turn - qwertyu (CTRL=ai)
+Round 582 - start_turn - qwertyu (CTRL=ai)
+Round 583 - start_turn - qwertyu (CTRL=ai)
+Round 584 - start_turn - qwertyu (CTRL=ai)
+Round 585 - start_turn - qwertyu (CTRL=ai)
+Round 586 - start_turn - qwertyu (CTRL=ai)
+Round 587 - start_turn - qwertyu (CTRL=ai)
+Round 588 - start_turn - qwertyu (CTRL=ai)
+Round 589 - start_turn - qwertyu (CTRL=ai)
+Round 590 - start_turn - qwertyu (CTRL=ai)
+Round 591 - start_turn - qwertyu (CTRL=ai)
+Round 592 - start_turn - qwertyu (CTRL=ai)
+Round 593 - start_turn - qwertyu (CTRL=ai)
+Round 594 - start_turn - qwertyu (CTRL=ai)
+Round 595 - start_turn - qwertyu (CTRL=ai)
+Round 596 - start_turn - qwertyu (CTRL=ai)
+Round 597 - start_turn - qwertyu (CTRL=ai)
+Round 598 - start_turn - qwertyu (CTRL=ai)
+Round 599 - start_turn - qwertyu (CTRL=ai)
+Round 600 - start_turn - qwertyu (CTRL=ai)
+Round 601 - start_turn - qwertyu (CTRL=ai)
+Round 602 - start_turn - qwertyu (CTRL=ai)
+Round 603 - start_turn - qwertyu (CTRL=ai)
+Round 604 - start_turn - qwertyu (CTRL=ai)
+Round 605 - start_turn - qwertyu (CTRL=ai)
+Round 606 - start_turn - qwertyu (CTRL=ai)
+Round 607 - start_turn - qwertyu (CTRL=ai)
+Round 608 - start_turn - qwertyu (CTRL=ai)
+Round 609 - start_turn - qwertyu (CTRL=ai)
+Round 610 - start_turn - qwertyu (CTRL=ai)
+Round 611 - start_turn - qwertyu (CTRL=ai)
+Round 612 - start_turn - qwertyu (CTRL=ai)
+Round 613 - start_turn - qwertyu (CTRL=ai)
+Round 614 - start_turn - qwertyu (CTRL=ai)
+Round 615 - start_turn - qwertyu (CTRL=ai)
+Round 616 - start_turn - qwertyu (CTRL=ai)
+Round 617 - start_turn - qwertyu (CTRL=ai)
+Round 618 - start_turn - qwertyu (CTRL=ai)
+Round 619 - start_turn - qwertyu (CTRL=ai)
+Round 620 - start_turn - qwertyu (CTRL=ai)
+Round 621 - start_turn - qwertyu (CTRL=ai)
+Round 622 - start_turn - qwertyu (CTRL=ai)
+Round 623 - start_turn - qwertyu (CTRL=ai)
+Round 624 - start_turn - qwertyu (CTRL=ai)
+Round 625 - start_turn - qwertyu (CTRL=ai)
+Round 626 - start_turn - qwertyu (CTRL=ai)
+Round 627 - start_turn - qwertyu (CTRL=ai)
+Round 628 - start_turn - qwertyu (CTRL=ai)
+Round 629 - start_turn - qwertyu (CTRL=ai)
+Round 630 - start_turn - qwertyu (CTRL=ai)
+Round 631 - start_turn - qwertyu (CTRL=ai)
+Round 632 - start_turn - qwertyu (CTRL=ai)
+Round 633 - start_turn - qwertyu (CTRL=ai)
+Round 634 - start_turn - qwertyu (CTRL=ai)
+Round 635 - start_turn - qwertyu (CTRL=ai)
+Round 636 - start_turn - qwertyu (CTRL=ai)
+Round 637 - start_turn - qwertyu (CTRL=ai)
+Round 638 - start_turn - qwertyu (CTRL=ai)
+Round 639 - start_turn - qwertyu (CTRL=ai)
+Round 640 - start_turn - qwertyu (CTRL=ai)
+Round 641 - start_turn - qwertyu (CTRL=ai)
+Round 642 - start_turn - qwertyu (CTRL=ai)
+Round 643 - start_turn - qwertyu (CTRL=ai)
+Round 644 - start_turn - qwertyu (CTRL=ai)
+Round 645 - start_turn - qwertyu (CTRL=ai)
+Round 646 - start_turn - qwertyu (CTRL=ai)
+Round 647 - start_turn - qwertyu (CTRL=ai)
+Round 648 - start_turn - qwertyu (CTRL=ai)
+Round 649 - start_turn - qwertyu (CTRL=ai)
+Round 650 - start_turn - qwertyu (CTRL=ai)
+Round 651 - start_turn - qwertyu (CTRL=ai)
+Round 652 - start_turn - qwertyu (CTRL=ai)
+Round 653 - start_turn - qwertyu (CTRL=ai)
+Round 654 - start_turn - qwertyu (CTRL=ai)
+Round 655 - start_turn - qwertyu (CTRL=ai)
+Round 656 - start_turn - qwertyu (CTRL=ai)
+Round 657 - start_turn - qwertyu (CTRL=ai)
+Round 658 - start_turn - qwertyu (CTRL=ai)
+Round 659 - start_turn - qwertyu (CTRL=ai)
+Round 660 - start_turn - qwertyu (CTRL=ai)
+Round 661 - start_turn - qwertyu (CTRL=ai)
+Round 662 - start_turn - qwertyu (CTRL=ai)
+Round 663 - start_turn - qwertyu (CTRL=ai)
+Round 664 - start_turn - qwertyu (CTRL=ai)
+Round 665 - start_turn - qwertyu (CTRL=ai)
+Round 666 - start_turn - qwertyu (CTRL=ai)
+Round 667 - start_turn - qwertyu (CTRL=ai)
+Round 668 - start_turn - qwertyu (CTRL=ai)
+Round 669 - start_turn - qwertyu (CTRL=ai)
+Round 670 - start_turn - qwertyu (CTRL=ai)
+Round 671 - start_turn - qwertyu (CTRL=ai)
+Round 672 - start_turn - qwertyu (CTRL=ai)
+Round 673 - start_turn - qwertyu (CTRL=ai)
+Round 674 - start_turn - qwertyu (CTRL=ai)
+Round 675 - start_turn - qwertyu (CTRL=ai)
+Round 676 - start_turn - qwertyu (CTRL=ai)
+Round 677 - start_turn - qwertyu (CTRL=ai)
+Round 678 - start_turn - qwertyu (CTRL=ai)
+Round 679 - start_turn - qwertyu (CTRL=ai)
+Round 680 - start_turn - qwertyu (CTRL=ai)
+Round 681 - start_turn - qwertyu (CTRL=ai)
+Round 682 - start_turn - qwertyu (CTRL=ai)
+Round 683 - start_turn - qwertyu (CTRL=ai)
+Round 684 - start_turn - qwertyu (CTRL=ai)
+Round 685 - start_turn - qwertyu (CTRL=ai)
+Round 686 - start_turn - qwertyu (CTRL=ai)
+Round 687 - start_turn - qwertyu (CTRL=ai)
+Round 688 - start_turn - qwertyu (CTRL=ai)
+Round 689 - start_turn - qwertyu (CTRL=ai)
+Round 690 - start_turn - qwertyu (CTRL=ai)
+Round 691 - start_turn - qwertyu (CTRL=ai)
+Round 692 - start_turn - qwertyu (CTRL=ai)
+Round 693 - start_turn - qwertyu (CTRL=ai)
+Round 694 - start_turn - qwertyu (CTRL=ai)
+Round 695 - start_turn - qwertyu (CTRL=ai)
+Round 696 - start_turn - qwertyu (CTRL=ai)
+Round 697 - start_turn - qwertyu (CTRL=ai)
+Round 698 - start_turn - qwertyu (CTRL=ai)
+Round 699 - start_turn - qwertyu (CTRL=ai)
+Round 700 - start_turn - qwertyu (CTRL=ai)
+Round 701 - start_turn - qwertyu (CTRL=ai)
+Round 702 - start_turn - qwertyu (CTRL=ai)
+Round 703 - start_turn - qwertyu (CTRL=ai)
+Round 704 - start_turn - qwertyu (CTRL=ai)
+Round 705 - start_turn - qwertyu (CTRL=ai)
+Round 706 - start_turn - qwertyu (CTRL=ai)
+Round 707 - start_turn - qwertyu (CTRL=ai)
+Round 708 - start_turn - qwertyu (CTRL=ai)
+Round 709 - start_turn - qwertyu (CTRL=ai)
+Round 710 - start_turn - qwertyu (CTRL=ai)
+Round 711 - start_turn - qwertyu (CTRL=ai)
+Round 712 - start_turn - qwertyu (CTRL=ai)
+Round 713 - start_turn - qwertyu (CTRL=ai)
+Round 714 - start_turn - qwertyu (CTRL=ai)
+Round 715 - start_turn - qwertyu (CTRL=ai)
+Round 716 - start_turn - qwertyu (CTRL=ai)
+Round 717 - start_turn - qwertyu (CTRL=ai)
+Round 718 - start_turn - qwertyu (CTRL=ai)
+Round 719 - start_turn - qwertyu (CTRL=ai)
+Round 720 - start_turn - qwertyu (CTRL=ai)
+Round 721 - start_turn - qwertyu (CTRL=ai)
+Round 722 - start_turn - qwertyu (CTRL=ai)
+Round 723 - start_turn - qwertyu (CTRL=ai)
+Round 724 - start_turn - qwertyu (CTRL=ai)
+Round 725 - start_turn - qwertyu (CTRL=ai)
+Round 726 - start_turn - qwertyu (CTRL=ai)
+Round 727 - start_turn - qwertyu (CTRL=ai)
+Round 728 - start_turn - qwertyu (CTRL=ai)
+Round 729 - start_turn - qwertyu (CTRL=ai)
+Round 730 - start_turn - qwertyu (CTRL=ai)
+Round 731 - start_turn - qwertyu (CTRL=ai)
+Round 732 - start_turn - qwertyu (CTRL=ai)
+Round 733 - start_turn - qwertyu (CTRL=ai)
+Round 734 - start_turn - qwertyu (CTRL=ai)
+Round 735 - start_turn - qwertyu (CTRL=ai)
+Round 736 - start_turn - qwertyu (CTRL=ai)
+Round 737 - start_turn - qwertyu (CTRL=ai)
+Round 738 - start_turn - qwertyu (CTRL=ai)
+Round 739 - start_turn - qwertyu (CTRL=ai)
+Round 740 - start_turn - qwertyu (CTRL=ai)
+Round 741 - start_turn - qwertyu (CTRL=ai)
+Round 742 - start_turn - qwertyu (CTRL=ai)
+Round 743 - start_turn - qwertyu (CTRL=ai)
+Round 744 - start_turn - qwertyu (CTRL=ai)
+Round 745 - start_turn - qwertyu (CTRL=ai)
+Round 746 - start_turn - qwertyu (CTRL=ai)
+Round 747 - start_turn - qwertyu (CTRL=ai)
+Round 748 - start_turn - qwertyu (CTRL=ai)
+Round 749 - start_turn - qwertyu (CTRL=ai)
+Round 750 - start_turn - qwertyu (CTRL=ai)
+Round 751 - start_turn - qwertyu (CTRL=ai)
+Round 752 - start_turn - qwertyu (CTRL=ai)
+Round 753 - start_turn - qwertyu (CTRL=ai)
+Round 754 - start_turn - qwertyu (CTRL=ai)
+Round 755 - start_turn - qwertyu (CTRL=ai)
+Round 756 - start_turn - qwertyu (CTRL=ai)
+Round 757 - start_turn - qwertyu (CTRL=ai)
+Round 758 - start_turn - qwertyu (CTRL=ai)
+Round 759 - start_turn - qwertyu (CTRL=ai)
+Round 760 - start_turn - qwertyu (CTRL=ai)
+Round 761 - start_turn - qwertyu (CTRL=ai)
+Round 762 - start_turn - qwertyu (CTRL=ai)
+Round 763 - start_turn - qwertyu (CTRL=ai)
+Round 764 - start_turn - qwertyu (CTRL=ai)
+Round 765 - start_turn - qwertyu (CTRL=ai)
+Round 766 - start_turn - qwertyu (CTRL=ai)
+Round 767 - start_turn - qwertyu (CTRL=ai)
+Round 768 - start_turn - qwertyu (CTRL=ai)
+Round 769 - start_turn - qwertyu (CTRL=ai)
+Round 770 - start_turn - qwertyu (CTRL=ai)
+Round 771 - start_turn - qwertyu (CTRL=ai)
+Round 772 - start_turn - qwertyu (CTRL=ai)
+Round 773 - start_turn - qwertyu (CTRL=ai)
+Round 774 - start_turn - qwertyu (CTRL=ai)
+Round 775 - start_turn - qwertyu (CTRL=ai)
+Round 776 - start_turn - qwertyu (CTRL=ai)
+Round 777 - start_turn - qwertyu (CTRL=ai)
+Round 778 - start_turn - qwertyu (CTRL=ai)
+Round 779 - start_turn - qwertyu (CTRL=ai)
+Round 780 - start_turn - qwertyu (CTRL=ai)
+Round 781 - start_turn - qwertyu (CTRL=ai)
+Round 782 - start_turn - qwertyu (CTRL=ai)
+Round 783 - start_turn - qwertyu (CTRL=ai)
+Round 784 - start_turn - qwertyu (CTRL=ai)
+Round 785 - start_turn - qwertyu (CTRL=ai)
+Round 786 - start_turn - qwertyu (CTRL=ai)
+Round 787 - start_turn - qwertyu (CTRL=ai)
+Round 788 - start_turn - qwertyu (CTRL=ai)
+Round 789 - start_turn - qwertyu (CTRL=ai)
+Round 790 - start_turn - qwertyu (CTRL=ai)
+Round 791 - start_turn - qwertyu (CTRL=ai)
+Round 792 - start_turn - qwertyu (CTRL=ai)
+Round 793 - start_turn - qwertyu (CTRL=ai)
+Round 794 - start_turn - qwertyu (CTRL=ai)
+Round 795 - start_turn - qwertyu (CTRL=ai)
+Round 796 - start_turn - qwertyu (CTRL=ai)
+Round 797 - start_turn - qwertyu (CTRL=ai)
+Round 798 - start_turn - qwertyu (CTRL=ai)
+Round 799 - start_turn - qwertyu (CTRL=ai)
+Round 800 - start_turn - qwertyu (CTRL=ai)
+Round 801 - start_turn - qwertyu (CTRL=ai)
+Round 802 - start_turn - qwertyu (CTRL=ai)
+Round 803 - start_turn - qwertyu (CTRL=ai)
+Round 804 - start_turn - qwertyu (CTRL=ai)
+Round 805 - start_turn - qwertyu (CTRL=ai)
+Round 806 - start_turn - qwertyu (CTRL=ai)
+Round 807 - start_turn - qwertyu (CTRL=ai)
+Round 808 - start_turn - qwertyu (CTRL=ai)
+Round 809 - start_turn - qwertyu (CTRL=ai)
+Round 810 - start_turn - qwertyu (CTRL=ai)
+Round 811 - start_turn - qwertyu (CTRL=ai)
+Round 812 - start_turn - qwertyu (CTRL=ai)
+Round 813 - start_turn - qwertyu (CTRL=ai)
+Round 814 - start_turn - qwertyu (CTRL=ai)
+Round 815 - start_turn - qwertyu (CTRL=ai)
+Round 816 - start_turn - qwertyu (CTRL=ai)
+Round 817 - start_turn - qwertyu (CTRL=ai)
+Round 818 - start_turn - qwertyu (CTRL=ai)
+Round 819 - start_turn - qwertyu (CTRL=ai)
+Round 820 - start_turn - qwertyu (CTRL=ai)
+Round 821 - start_turn - qwertyu (CTRL=ai)
+Round 822 - start_turn - qwertyu (CTRL=ai)
+Round 823 - start_turn - qwertyu (CTRL=ai)
+Round 824 - start_turn - qwertyu (CTRL=ai)
+Round 825 - start_turn - qwertyu (CTRL=ai)
+Round 826 - start_turn - qwertyu (CTRL=ai)
+Round 827 - start_turn - qwertyu (CTRL=ai)
+Round 828 - start_turn - qwertyu (CTRL=ai)
+Round 829 - start_turn - qwertyu (CTRL=ai)
+Round 830 - start_turn - qwertyu (CTRL=ai)
+Round 831 - start_turn - qwertyu (CTRL=ai)
+Round 832 - start_turn - qwertyu (CTRL=ai)
+Round 833 - start_turn - qwertyu (CTRL=ai)
+Round 834 - start_turn - qwertyu (CTRL=ai)
+Round 835 - start_turn - qwertyu (CTRL=ai)
+Round 836 - start_turn - qwertyu (CTRL=ai)
+Round 837 - start_turn - qwertyu (CTRL=ai)
+Round 838 - start_turn - qwertyu (CTRL=ai)
+Round 839 - start_turn - qwertyu (CTRL=ai)
+Round 840 - start_turn - qwertyu (CTRL=ai)
+Round 841 - start_turn - qwertyu (CTRL=ai)
+Round 842 - start_turn - qwertyu (CTRL=ai)
+Round 843 - start_turn - qwertyu (CTRL=ai)
+Round 844 - start_turn - qwertyu (CTRL=ai)
+Round 845 - start_turn - qwertyu (CTRL=ai)
+Round 846 - start_turn - qwertyu (CTRL=ai)
+Round 847 - start_turn - qwertyu (CTRL=ai)
+Round 848 - start_turn - qwertyu (CTRL=ai)
+Round 849 - start_turn - qwertyu (CTRL=ai)
+Round 850 - start_turn - qwertyu (CTRL=ai)
+Round 851 - start_turn - qwertyu (CTRL=ai)
+Round 852 - start_turn - qwertyu (CTRL=ai)
+Round 853 - start_turn - qwertyu (CTRL=ai)
+Round 854 - start_turn - qwertyu (CTRL=ai)
+Round 855 - start_turn - qwertyu (CTRL=ai)
+Round 856 - start_turn - qwertyu (CTRL=ai)
+Round 857 - start_turn - qwertyu (CTRL=ai)
+Round 858 - start_turn - qwertyu (CTRL=ai)
+Round 859 - start_turn - qwertyu (CTRL=ai)
+Round 860 - start_turn - qwertyu (CTRL=ai)
+Round 861 - start_turn - qwertyu (CTRL=ai)
+Round 862 - start_turn - qwertyu (CTRL=ai)
+Round 863 - start_turn - qwertyu (CTRL=ai)
+Round 864 - start_turn - qwertyu (CTRL=ai)
+Round 865 - start_turn - qwertyu (CTRL=ai)
+Round 866 - start_turn - qwertyu (CTRL=ai)
+Round 867 - start_turn - qwertyu (CTRL=ai)
+Round 868 - start_turn - qwertyu (CTRL=ai)
+Round 869 - start_turn - qwertyu (CTRL=ai)
+Round 870 - start_turn - qwertyu (CTRL=ai)
+Round 871 - start_turn - qwertyu (CTRL=ai)
+Round 872 - start_turn - qwertyu (CTRL=ai)
+Round 873 - start_turn - qwertyu (CTRL=ai)
+Round 874 - start_turn - qwertyu (CTRL=ai)
+Round 875 - start_turn - qwertyu (CTRL=ai)
+Round 876 - start_turn - qwertyu (CTRL=ai)
+Round 877 - start_turn - qwertyu (CTRL=ai)
+Round 878 - start_turn - qwertyu (CTRL=ai)
+Round 879 - start_turn - qwertyu (CTRL=ai)
+Round 880 - start_turn - qwertyu (CTRL=ai)
+Round 881 - start_turn - qwertyu (CTRL=ai)
+Round 882 - start_turn - qwertyu (CTRL=ai)
+Round 883 - start_turn - qwertyu (CTRL=ai)
+Round 884 - start_turn - qwertyu (CTRL=ai)
+Round 885 - start_turn - qwertyu (CTRL=ai)
+Round 886 - start_turn - qwertyu (CTRL=ai)
+Round 887 - start_turn - qwertyu (CTRL=ai)
+Round 888 - start_turn - qwertyu (CTRL=ai)
+Round 889 - start_turn - qwertyu (CTRL=ai)
+Round 890 - start_turn - qwertyu (CTRL=ai)
+Round 891 - start_turn - qwertyu (CTRL=ai)
+Round 892 - start_turn - qwertyu (CTRL=ai)
+Round 893 - start_turn - qwertyu (CTRL=ai)
+Round 894 - start_turn - qwertyu (CTRL=ai)
+Round 895 - start_turn - qwertyu (CTRL=ai)
+Round 896 - start_turn - qwertyu (CTRL=ai)
+Round 897 - start_turn - qwertyu (CTRL=ai)
+Round 898 - start_turn - qwertyu (CTRL=ai)
+Round 899 - start_turn - qwertyu (CTRL=ai)
+Round 900 - start_turn - qwertyu (CTRL=ai)
+Round 901 - start_turn - qwertyu (CTRL=ai)
+Round 902 - start_turn - qwertyu (CTRL=ai)
+Round 903 - start_turn - qwertyu (CTRL=ai)
+Round 904 - start_turn - qwertyu (CTRL=ai)
+Round 905 - start_turn - qwertyu (CTRL=ai)
+Round 906 - start_turn - qwertyu (CTRL=ai)
+Round 907 - start_turn - qwertyu (CTRL=ai)
+Round 908 - start_turn - qwertyu (CTRL=ai)
+Round 909 - start_turn - qwertyu (CTRL=ai)
+Round 910 - start_turn - qwertyu (CTRL=ai)
+Round 911 - start_turn - qwertyu (CTRL=ai)
+Round 912 - start_turn - qwertyu (CTRL=ai)
+Round 913 - start_turn - qwertyu (CTRL=ai)
+Round 914 - start_turn - qwertyu (CTRL=ai)
+Round 915 - start_turn - qwertyu (CTRL=ai)
+Round 916 - start_turn - qwertyu (CTRL=ai)
+Round 917 - start_turn - qwertyu (CTRL=ai)
+Round 918 - start_turn - qwertyu (CTRL=ai)
+Round 919 - start_turn - qwertyu (CTRL=ai)
+Round 920 - start_turn - qwertyu (CTRL=ai)
+Round 921 - start_turn - qwertyu (CTRL=ai)
+Round 922 - start_turn - qwertyu (CTRL=ai)
+Round 923 - start_turn - qwertyu (CTRL=ai)
+Round 924 - start_turn - qwertyu (CTRL=ai)
+Round 925 - start_turn - qwertyu (CTRL=ai)
+Round 926 - start_turn - qwertyu (CTRL=ai)
+Round 927 - start_turn - qwertyu (CTRL=ai)
+Round 928 - start_turn - qwertyu (CTRL=ai)
+Round 929 - start_turn - qwertyu (CTRL=ai)
+Round 930 - start_turn - qwertyu (CTRL=ai)
+Round 931 - start_turn - qwertyu (CTRL=ai)
+Round 932 - start_turn - qwertyu (CTRL=ai)
+Round 933 - start_turn - qwertyu (CTRL=ai)
+Round 934 - start_turn - qwertyu (CTRL=ai)
+Round 935 - start_turn - qwertyu (CTRL=ai)
+Round 936 - start_turn - qwertyu (CTRL=ai)
+Round 937 - start_turn - qwertyu (CTRL=ai)
+Round 938 - start_turn - qwertyu (CTRL=ai)
+Round 939 - start_turn - qwertyu (CTRL=ai)
+Round 940 - start_turn - qwertyu (CTRL=ai)
+Round 941 - start_turn - qwertyu (CTRL=ai)
+Round 942 - start_turn - qwertyu (CTRL=ai)
+Round 943 - start_turn - qwertyu (CTRL=ai)
+Round 944 - start_turn - qwertyu (CTRL=ai)
+Round 945 - start_turn - qwertyu (CTRL=ai)
+Round 946 - start_turn - qwertyu (CTRL=ai)
+Round 947 - start_turn - qwertyu (CTRL=ai)
+Round 948 - start_turn - qwertyu (CTRL=ai)
+Round 949 - start_turn - qwertyu (CTRL=ai)
+Round 950 - start_turn - qwertyu (CTRL=ai)
+Round 951 - start_turn - qwertyu (CTRL=ai)
+Round 952 - start_turn - qwertyu (CTRL=ai)
+Round 953 - start_turn - qwertyu (CTRL=ai)
+Round 954 - start_turn - qwertyu (CTRL=ai)
+Round 955 - start_turn - qwertyu (CTRL=ai)
+Round 956 - start_turn - qwertyu (CTRL=ai)
+Round 957 - start_turn - qwertyu (CTRL=ai)
+Round 958 - start_turn - qwertyu (CTRL=ai)
+Round 959 - start_turn - qwertyu (CTRL=ai)
+Round 960 - start_turn - qwertyu (CTRL=ai)
+Round 961 - start_turn - qwertyu (CTRL=ai)
+Round 1 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 2 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 3 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 4 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 5 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 6 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 7 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 8 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 9 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 10 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 11 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 12 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 13 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 14 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 15 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 16 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 17 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 18 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 19 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 20 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 21 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 22 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 23 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 24 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 25 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 26 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 27 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 28 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 29 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 30 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 31 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 32 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 33 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 34 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 35 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 36 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 37 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 38 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 39 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 40 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 41 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 42 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 43 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 44 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 45 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 46 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 47 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 48 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 49 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 50 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 51 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 52 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 53 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 54 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 55 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 56 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 57 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 58 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 59 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 60 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 61 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 62 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 63 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 64 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 65 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 66 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 67 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 68 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 69 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 70 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 71 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 72 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 73 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 74 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 75 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 76 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 77 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 78 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 79 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 80 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 81 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 82 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 83 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 84 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 85 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 86 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 87 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 88 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 89 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 90 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 91 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 92 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 93 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 94 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 95 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 96 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 97 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 98 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 99 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 100 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 101 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 102 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 103 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 104 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 105 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 106 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 107 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 108 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 109 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 110 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 111 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 112 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 113 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 114 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 115 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 116 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 117 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 118 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 119 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 120 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 121 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 122 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 123 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 124 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 125 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 126 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 127 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 128 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 129 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 130 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 131 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 132 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 133 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 134 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 135 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 136 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 137 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 138 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 139 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 140 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 141 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 142 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 143 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 144 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 145 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 146 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 147 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 148 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 149 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 150 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 151 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 152 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 153 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 154 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 155 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 156 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 157 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 158 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 159 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 160 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 161 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 162 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 163 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 164 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 165 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 166 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 167 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 168 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 169 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 170 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 171 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 172 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 173 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 174 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 175 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 176 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 177 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 178 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 179 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 180 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 181 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 182 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 183 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 184 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 185 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 186 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 187 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 188 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 189 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 190 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 191 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 192 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 193 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 194 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 195 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 196 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 197 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 198 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 199 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 200 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 201 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 202 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 203 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 204 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 205 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 206 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 207 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 208 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 209 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 210 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 211 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 212 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 213 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 214 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 215 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 216 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 217 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 218 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 219 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 220 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 221 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 222 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 223 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 224 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 225 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 226 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 227 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 228 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 229 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 230 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 231 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 232 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 233 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 234 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 235 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 236 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 237 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 238 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 239 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 240 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 241 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 242 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 243 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 244 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 245 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 246 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 247 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 248 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 249 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 250 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 251 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 252 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 253 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 254 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 255 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 256 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 257 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 258 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 259 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 260 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 261 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 262 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 263 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 264 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 265 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 266 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 267 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 268 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 269 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 270 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 271 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 272 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 273 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 274 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 275 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 276 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 277 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 278 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 279 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 280 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 281 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 282 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 283 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 284 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 285 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 286 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 287 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 288 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 289 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 290 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 291 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 292 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 293 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 294 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 295 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 296 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 297 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 298 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 299 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 300 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 301 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 302 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 303 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 304 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 305 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 306 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 307 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 308 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 309 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 310 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 311 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 312 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 313 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 314 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 315 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 316 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 317 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 318 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 319 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 320 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 321 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 322 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 323 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 324 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 325 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 326 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 327 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 328 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 329 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 330 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 331 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 332 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 333 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 334 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 335 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 336 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 337 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 338 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 339 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 340 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 341 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 342 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 343 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 344 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 345 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 346 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 347 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 348 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 349 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 350 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 351 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 352 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 353 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 354 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 355 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 356 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 357 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 358 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 359 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 360 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 361 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 362 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 363 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 364 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 365 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 366 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 367 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 368 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 369 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 370 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 371 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 372 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 373 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 374 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 375 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 376 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 377 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 378 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 379 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 380 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 381 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 382 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 383 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 384 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 385 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 386 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 387 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 388 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 389 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 390 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 391 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 392 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 393 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 394 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 395 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 396 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 397 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 398 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 399 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 400 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 401 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 402 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 403 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 404 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 405 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 406 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 407 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 408 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 409 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 410 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 411 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 412 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 413 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 414 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 415 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 416 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 417 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 418 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 419 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 420 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 421 - start_turn - qwertyu (CTRL=players)
+qwertyu - unknown controller, skipped
+Round 1 - start_turn - qwertyu (CTRL=player)
