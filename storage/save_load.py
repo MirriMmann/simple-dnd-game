@@ -6,6 +6,10 @@ from typing import List, Dict
 from models.entities import Entity
 from core.game_state import GameState
 
+# 🎨 Цвета
+from colorama import Fore, Style, init
+init(autoreset=True)
+
 SAVE_DIR = os.path.join(os.path.dirname(__file__), "saves")
 os.makedirs(SAVE_DIR, exist_ok=True)
 
@@ -26,7 +30,7 @@ def save_players(players: List[Entity], slot: int = 1):
     to_write = {"meta": meta, "data": data}
     with open(path, "w", encoding="utf-8") as f:
         json.dump(to_write, f, ensure_ascii=False, indent=2)
-    print(f"Сохранено в {path}")
+    print(Fore.GREEN + f"✔ Сохранено {len(players)} игроков в {path}")
 
 
 def load_players(slot: int = 1) -> List[Entity]:
@@ -36,11 +40,12 @@ def load_players(slot: int = 1) -> List[Entity]:
             payload = json.load(f)
         raw = payload.get("data", payload)
         players = [Entity.from_dict(d) for d in raw]
-        print(f"Загружено {len(players)} персонажей из слота {slot}.")
+        print(Fore.CYAN + f"⬇ Загружено {len(players)} персонажей из слота {slot}.")
         return players
     except FileNotFoundError:
-        print("Файл сохранения не найден.")
+        print(Fore.RED + "⚠ Файл сохранения не найден.")
         return []
+
 
 def save_game(state: GameState, slot: int = 1):
     path = _get_save_path(slot)
@@ -56,7 +61,7 @@ def save_game(state: GameState, slot: int = 1):
     to_write = {"meta": meta, "data": data}
     with open(path, "w", encoding="utf-8") as f:
         json.dump(to_write, f, ensure_ascii=False, indent=2)
-    print(f"Сохранено в {path}")
+    print(Fore.GREEN + f"💾 Игра сохранена в {path}")
 
 
 def load_game(state: GameState, slot: int = 1):
@@ -71,13 +76,13 @@ def load_game(state: GameState, slot: int = 1):
         state.current_scene = meta.get("scene", "scene_1")
         state.current_round = meta.get("round", 1)
 
-        print(f"Загружено {len(state.entities)} персонажей, сцена {state.current_scene}, раунд {state.current_round}")
+        print(Fore.CYAN + f"⬇ Загружено {len(state.entities)} персонажей, "
+              f"сцена {Fore.YELLOW}{state.current_scene}{Fore.CYAN}, "
+              f"раунд {Fore.YELLOW}{state.current_round}")
         return state
     except FileNotFoundError:
-        print("Файл сохранения не найден.")
+        print(Fore.RED + "⚠ Файл сохранения не найден.")
         return state
-
-
 
 
 def list_saves() -> List[Dict]:

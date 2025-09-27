@@ -6,7 +6,7 @@ from models.entities import Entity
 
 class GameState:
     def __init__(self, event_bus: Optional[EventBus] = None):
-        self.entities: List[Entity] = []       # все сущности в порядке добавления (creation order)
+        self.entities: List[Entity] = []
         self.current_round: int = 1
         self.event_bus = event_bus or EventBus()
         self.current_scene: str = "scene_1"

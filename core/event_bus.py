@@ -14,5 +14,4 @@ class EventBus:
             try:
                 handler(data)
             except Exception as e:
-                # не ломаем цикл из-за ошибки обработчика
                 print(f"[EventBus] Ошибка в обработчике события '{event_name}': {e}")

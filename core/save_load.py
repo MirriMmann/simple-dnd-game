@@ -11,7 +11,6 @@ def save_players(players):
         json.dump(data, f, ensure_ascii=False, indent=2)
     print(f"\nСохранено {len(players)} игроков в {SAVE_FILE}")
 
-
 def load_players():
     try:
         with open(SAVE_FILE, "r", encoding="utf-8") as f:

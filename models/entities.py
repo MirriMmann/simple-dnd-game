@@ -113,7 +113,6 @@ class Entity:
         return (f"<{self.char_class} {self.name} (LVL={self.level}, HP={self.hp_current}/{self.hp_max}, "
                 f"RAСА={self.race}, CTRL={self.controller}) | {stats_str}>")
 
-    # ... остальные методы без изменений ...
 
 
     def to_dict(self) -> Dict:

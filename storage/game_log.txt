@@ -1805,3 +1805,11 @@ qwertyu - unknown controller, skipped
 Round 421 - start_turn - qwertyu (CTRL=players)
 qwertyu - unknown controller, skipped
 Round 1 - start_turn - qwertyu (CTRL=player)
+Round 1 - start_turn - qwertyu (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 2 - start_turn - qwerty (CTRL=player)
+Round 1 - start_turn - qwerty (CTRL=player)
+Round 2 - start_turn - qwerty (CTRL=player)
